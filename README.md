@@ -14,6 +14,6 @@ Lastly we add some labels to the plot so it can show the datetime we detected mo
 1. With the information we obtain, aside from the plot we would like to obtain a series of images or frames when something was detected, so we can see a recopilatory of what provoked each
 detection.
 
-2.Also we can add to the existing label the duration of each detection in seconds.
+2. Also we can add to the existing label the duration of each detection in seconds.
 
 3. We can implement uploading this images and plots to a web page so we can observe the updates the next day.
